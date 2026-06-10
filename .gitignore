@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+
+output/
+assets/minecraft_gameplay
+.idea/
+queue.txt
+queue_done.txt
